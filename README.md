@@ -1,1 +1,1 @@
-# SocialNetwork
+Кусок социальной сети на React. Не забудбте установить папку node_modules
