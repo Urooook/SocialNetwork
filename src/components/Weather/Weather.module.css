@@ -1,0 +1,70 @@
+.temperature{
+    font-size:48px;
+    font-weight: 600;
+    
+}
+.mainWeatherInformation{
+    width:80%;
+    margin: 0 auto;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.weatherInput{
+	width: 300px;
+   margin-right: 10px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+}
+.buttonSearchImg{
+    width:25px;
+    height: 25px;
+    padding: 4px;
+}
+
+.buttonSearch{
+    border-radius: 10%;
+    border:none;
+}
+
+.searchLabel{
+    padding-top:10px;
+    width: 96%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cityName{
+    width:100%;
+    text-align: center;
+    font-size:36px;
+
+}
+.anotherInformation{
+    text-align: center;
+}
+
+.windowIcon{
+    margin-right: 5px;
+    width:30px;
+    height: 30px;
+    
+
+}
+
+.centerImg{
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+}
+
+.secondInformation{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

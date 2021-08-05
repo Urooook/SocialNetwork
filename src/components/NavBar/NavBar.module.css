@@ -1,0 +1,13 @@
+.sidebar {
+    grid-area: nav;
+    background: rgb(13, 53, 87);
+    padding: 20px;
+  }
+  .item{
+      color:#fff;
+      text-decoration: none;
+      
+  }
+  .activeLink{
+      color:rgb(175, 165, 165);
+  }

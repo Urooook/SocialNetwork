@@ -1,0 +1,19 @@
+.grid { 
+  width:90%;
+  margin: 0 auto;
+  display: grid;
+ 
+ grid-template-areas:
+"header header "
+"nav content ";
+ grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+  
+}
+.grid-content {
+  grid-area: content;
+  background: rgb(128, 120, 9);
+}
+
+

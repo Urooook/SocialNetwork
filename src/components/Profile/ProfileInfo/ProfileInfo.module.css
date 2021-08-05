@@ -1,0 +1,19 @@
+
+ .ProfileBigPhoto{
+    width: 100%;
+    height: 200px;
+  }
+  .descriptionBlock{
+    width: 60%;
+    
+      padding: 10px;
+      display:  flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .profileUserPhoto{
+    width: 200px;
+    height: 200px;
+}

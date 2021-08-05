@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    background: green;
+  }
+  .header img{
+    width:40px;
+  }
+ 
+  .headerContainer{
+    width:90%;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .userName:hover{
+    cursor: pointer;
+  }
